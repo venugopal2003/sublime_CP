@@ -17,11 +17,11 @@
 - You can add input.txt and output.txt file (for stdin and stdout)
 
 
-- You need to create a inputf.in and outputf.in file but you use either .txt or .in file for stdin and stdout
+- You need to create a inputf.in and outputf.in file but you can use either .txt or .in file for stdin and stdout
 
 
 ### Step 4:
-- Now navigate to Tool option and click Build System
+- Now navigate to Tools option and click Build System
 
 
 - Then click New Build System for adding C++17 or Python3 build
