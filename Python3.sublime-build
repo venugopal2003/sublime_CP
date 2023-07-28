@@ -1,0 +1,6 @@
+{
+ "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+ "selector": "source.python",
+ "shell":false,
+ "shell_cmd": "python3 ${file} 0< input.txt 1> output.txt"
+}
